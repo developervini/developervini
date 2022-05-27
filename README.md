@@ -1,4 +1,4 @@
-### Hi there 👋
+### Fala pessoal 👋
 
 <!--
 **developervini/developervini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Sou apaixonado por tecnologia e por aquilo que ela pode causar de impacto positivo na vida das pessoas.
+
+Com mais de 10 anos de experiência na área de tecnologia. Foram 6 anos trabalhando como programador e nos últimos 4 anos atuo como gestor, sendo responsável por liderar uma equipe de 15 pessoas, administrar e inovar os produtos e os setores da empresa.
+
+Além disso, o fato de ter uma veia empreendedora muito forte, fez com que eu abrisse minha empresa aos 16 anos e começasse a vender meu produto, que se chama GiBR.
+
+Atualmente também ajudo empresas a resolverem os seus problemas com tecnologia, melhorias e inovação nos processos internos, por meio de consultoria personalizada.
